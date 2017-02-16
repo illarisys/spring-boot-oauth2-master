@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-[![Build Status](https://secure.travis-ci.org/rajithd/spring-boot-oauth2.png)](http://travis-ci.org/rajithd/spring-boot-oauth2)
-
 # Build and Run
 ```java
 mvn clean install -DskipTests spring-boot:run
@@ -38,6 +35,3 @@ curl -i -H "Authorization: Bearer <access_token>" http://localhost:9191/api/secu
 
 Secure Hello!
 ```
-=======
-# spring-boot-oauth2-master
->>>>>>> f0fa841e274ec710597158cb2956f825753ca942
